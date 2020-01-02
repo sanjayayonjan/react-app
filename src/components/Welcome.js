@@ -4,7 +4,7 @@ class Welcome extends Component {
     render() {
         return (
             <div>
-                <h1>Welcome to the SPA!!!</h1>
+                <h1>Welcome Visitors!</h1>
             </div>
         );
     }

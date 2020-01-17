@@ -7,7 +7,7 @@ import Message from './components/Message';
 function App() {
   return (
     <div className="App">
-      <h4>Learn Tcaer</h4>
+      {/* <h4>Learn Tcaer</h4> */}
       {/* <Greet name="wulala">
         <p>Wulala (Children Props)</p>
       </Greet>
@@ -25,7 +25,7 @@ function App() {
         <h4>sdfsdfsdf</h4>
       </Welcome>
       <Welcome name="wulala3"/> */}
-      <Message></Message>
+      {/* <Message></Message> */}
     </div>
   );
 }
